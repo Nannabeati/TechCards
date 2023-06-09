@@ -19,7 +19,7 @@ body {
 
 .main-container {
   background-color: #f4faff;
-  height: 100vh;
+  height: 140vh;
   width: 100vw;
 }
 
@@ -45,7 +45,7 @@ body {
   align-items: flex-start;
   list-style-type: none;
   height: 350px;
-  width: 30vw;
+  width: 100vw;
   margin: 50px;
   flex-wrap: wrap;
 }
